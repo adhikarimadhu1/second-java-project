@@ -34,6 +34,7 @@ public class MapImp {
 		for (Map.Entry<String, String> entry : hashTable.entrySet()) {
 			System.out.println(entry.getKey() + ":" + entry.getValue());
 		}
+		System.out.println("my wife is calling");
 	}
 
 }
